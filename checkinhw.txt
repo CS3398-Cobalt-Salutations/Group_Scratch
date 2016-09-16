@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 first line of text of line first - cns27
 =======
 first line of text, new line of text I want. apl14
->>>>>>> a811b39ef83f36ac2fb682fcccbfdc9d18cd436c
